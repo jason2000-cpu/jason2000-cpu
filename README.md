@@ -15,7 +15,7 @@ Am more knowlegeable in the following programming languages and frameworks
 
 Feel free to reach me via the following channels;
 
-<a href="https://www.linkedin.com/in/jackson-muturi-b749081a0/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn#&logoColor=fff"></a>      <a href="https://twitter.com/JACKSON27068507"><img src="https://img.shields.io/badge/Twitter-white?logo=Twitter#&logoColor=fff"></a>      <a href="wa.me/+254797955092"><img src="https://img.shields.io/badge/-whatsapp-green?logo=Whatsapp&logoColor=white"></a>  <a href="mail.jacksonmuturi2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?logo=Gmail&logoColor=red"></a>
+<a href="https://www.linkedin.com/in/jackson-muturi-b749081a0/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn#&logoColor=fff"></a>      <a href="https://twitter.com/JACKSON27068507"><img src="https://img.shields.io/badge/Twitter-white?logo=Twitter#&logoColor=fff"></a>      <a href="wa.me/+254797955092"><img src="https://img.shields.io/badge/-whatsapp-green?logo=Whatsapp&logoColor=white"></a>  <a href="mailto:jacksonmuturi2000@gmail.com?subject:subject:text"><img src="https://img.shields.io/badge/-Gmail-white?logo=Gmail&logoColor=red"></a>
 
 
 **DOWNLOAD MY RESUME**
