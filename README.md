@@ -4,5 +4,16 @@
 
 I am a **Web and Software Developer** student, very ethusiastic on technology and always looking forward to solve real world problems that face the society using the power of technology
 
+Am more knowlegeable in the following programming languages and frameworks
+
+<img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&logoColor=fff">  <img src="https://img.shields.io/badge/-HTML-e34f26?logo=Html5&logoColor=fff">  <img src="https://img.shields.io/badge/CSS%203-1572B6?logo=CSS3#&logoColor=fff"> <img src="https://img.shields.io/badge/-BOOSTRAP%205-whitesmoke?logo=Bootstrap#&logoColor=fff">  <img src="https://img.shields.io/badge/-PYTHON-white?logo=Python#&logoColor=fff">
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=jason2000-cpu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jason2000-cpu&&show_icons=true&theme=radical&&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![enter image description here](https://camo.githubusercontent.com/80a8e5c29e762e1b3d7522f13a806c1f05bb0231ab3113e9cc53c7866c123fc5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d626f6e66616365323231266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d6e6f7264)
+
+**Contacts**
+
+Feel free to reach me via the following channels;
+
+<link href="https://www.linkedin.com/in/jackson-muturi-b749081a0/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn#&logoColor=fff"></link>
+[enter link description here](https://www.linkedin.com/in/jackson-muturi-b749081a0/)
