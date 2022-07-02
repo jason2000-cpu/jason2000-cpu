@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome! Am Jackson Mwangi
 
-##ABOUT ME
+## ABOUT ME
 
 I am a **Web and Software Developer** student, very ethusiastic on technology and always looking forward to solve real world problems that face the society using the power of technology
 
