@@ -2,9 +2,9 @@
 
 ## ABOUT ME
 
-I am a **Web and Software Developer** student, very ethusiastic on technology and always looking forward to solve real world problems that face the society using the power of technology
+I am a **Web and Software Developer || Software Engineer || Unit Tester || Project Manager**, I am very enthusiastic about technology and always looking forward to solving real-world problems that face society using the power of technology
 
-Am more knowlegeable in the following programming languages and frameworks
+Am more knowledgeable in the following programming languages and frameworks
 
 <img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&logoColor=fff">  <img src="https://img.shields.io/badge/-HTML-e34f26?logo=Html5&logoColor=fff">  <img src="https://img.shields.io/badge/CSS%203-1572B6?logo=CSS3#&logoColor=fff"> <img src="https://img.shields.io/badge/-BOOSTRAP%205-whitesmoke?logo=Bootstrap#&logoColor=fff">  <img src="https://img.shields.io/badge/-PYTHON-white?logo=Python#&logoColor=fff"> <img src="https://img.shields.io/badge/-react-white?logo=react#&logoColor=fff"> <img src="https://img.shields.io/badge/-mongodb-white?logo=mongodb#&logoColor=fff" >
 
