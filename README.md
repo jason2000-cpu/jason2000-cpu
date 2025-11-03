@@ -2,7 +2,11 @@
 
 ## ABOUT ME
 
-I am a **Web and Software Developer || Software Engineer || Unit Tester || Project Manager**, I am very enthusiastic about technology and always looking forward to solving real-world problems that face society using the power of technology
+I’m a purpose-driven Software Engineer passionate about building **human-centered and impactful technology**. I combine **creativity with analytical thinking** to **design solutions** that not only work efficiently but also make a genuine difference in people’s lives. My approach to development is rooted in **curiosity**, **empathy**, and a deep belief that technology should **empower**, not overwhelm.
+
+With experience across **full-stack development**, **AI**, and **product design**, I enjoy transforming **complex problems** into **intuitive**, **scalable systems**. I’m most fulfilled when working on projects that align with strong values, whether that means advancing **sustainability**, improving **digital access**, or creating tools that promote **growth** and **connection**.
+
+Driven by continuous learning and guided by integrity, I aim to bridge **innovation** and **meaning** in every project I take on.
 
 Am more knowledgeable in the following programming languages and frameworks
 
