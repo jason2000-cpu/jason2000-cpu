@@ -10,9 +10,9 @@ Driven by continuous learning and guided by integrity, I aim to bridge **innovat
 
 
 <!-- 💻 Tech Stack -->
-<h3 align="center">⚙️ Tech Stack</h3>
+<h3>⚙️ Tech Stack</h3>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff">
