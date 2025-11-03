@@ -8,7 +8,7 @@ With experience across **full-stack development**, **AI**, and **product design*
 
 Driven by continuous learning and guided by integrity, I aim to bridge **innovation** and **meaning** in every project I take on.
 
-<br /> <br />
+<br />
 <!-- 💻 Tech Stack -->
 <h3>⚙️ Tech Stack</h3>
 
@@ -38,9 +38,9 @@ Driven by continuous learning and guided by integrity, I aim to bridge **innovat
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 </p>
 
-<br /> <br />
-<!-- 📊 GitHub Stats -->
-<h3 align="center">📈 GitHub Stats & Activity</h3>
+<br /> 
+
+<h3>📈 GitHub Stats & Activity</h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jason2000-cpu&show_icons=true&hide_border=true&title_color=00C7C7&icon_color=00C7C7&text_color=FFFFFF&bg_color=0D1117" height="165">
