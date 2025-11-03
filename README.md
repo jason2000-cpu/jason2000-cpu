@@ -58,4 +58,4 @@ Feel free to reach me via the following channels;
 
 **DOWNLOAD MY RESUME**
 
-<a href="https://drive.google.com/file/d/1AWNMZP5MJ66pM8S8nd1DBd8qLuFvGLXt/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-RESUME-green?logo=RESUME&logoColor=white"><a/>
+<a href="https://drive.google.com/file/d/1-fDNJ_82nA9VRdzW9OxDBl99KM6UYU4L/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-RESUME-green?logo=RESUME&logoColor=white"><a/>
