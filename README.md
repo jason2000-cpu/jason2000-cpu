@@ -8,7 +8,6 @@ With experience across **full-stack development**, **AI**, and **product design*
 
 Driven by continuous learning and guided by integrity, I aim to bridge **innovation** and **meaning** in every project I take on.
 
-Am more knowledgeable in the following programming languages and frameworks
 
 <!-- 💻 Tech Stack -->
 <h3 align="center">⚙️ Tech Stack</h3>
@@ -30,8 +29,18 @@ Am more knowledgeable in the following programming languages and frameworks
 </p>
 
 
+<!-- 📊 GitHub Stats -->
+<h3 align="center">📈 GitHub Stats & Activity</h3>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=jason2000-cpu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)   ![enter image description here](https://camo.githubusercontent.com/80a8e5c29e762e1b3d7522f13a806c1f05bb0231ab3113e9cc53c7866c123fc5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d626f6e66616365323231266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d6e6f7264)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jason2000-cpu&show_icons=true&hide_border=true&title_color=00C7C7&icon_color=00C7C7&text_color=FFFFFF&bg_color=0D1117" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason2000-cpu&layout=compact&hide_border=true&title_color=00C7C7&text_color=FFFFFF&bg_color=0D1117" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jason2000-cpu&theme=tokyonight_duo&hide_border=true" height="165">
+</p>
+
 
 **Contacts**
 
