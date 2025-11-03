@@ -19,7 +19,6 @@ Driven by continuous learning and guided by integrity, I aim to bridge **innovat
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-  <br>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff">
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff">
@@ -28,7 +27,7 @@ Driven by continuous learning and guided by integrity, I aim to bridge **innovat
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 </p>
 
-
+<br /> <br /> <br/>
 <!-- 📊 GitHub Stats -->
 <h3 align="center">📈 GitHub Stats & Activity</h3>
 
