@@ -46,6 +46,7 @@ Driven by continuous learning and guided by integrity, I aim to bridge **innovat
   <img src="https://github-readme-stats.vercel.app/api?username=jason2000-cpu&show_icons=true&hide_border=true&title_color=00C7C7&icon_color=00C7C7&text_color=FFFFFF&bg_color=0D1117" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason2000-cpu&layout=compact&hide_border=true&title_color=00C7C7&text_color=FFFFFF&bg_color=0D1117" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jason2000-cpu&theme=tokyonight_duo&hide_border=true" height="165">
+  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jason2000-cpu.jason2000-cpu)
 </p>
 
 
