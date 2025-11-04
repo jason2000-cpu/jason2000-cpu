@@ -9,9 +9,9 @@ With experience across **full-stack development**, **AI**, and **product design*
 Driven by continuous learning and guided by integrity, I aim to bridge **innovation** and **meaning** in every project I take on.
 
 <br />
-  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jason2000-cpu.jason2000-cpu)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jason2000-cpu.jason2000-cpu">
 
-  <br />
+<br />
 <!-- 💻 Tech Stack -->
 <h3>⚙️ Tech Stack</h3>
 
