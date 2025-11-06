@@ -56,7 +56,7 @@ Driven by continuous learning and guided by integrity, I aim to bridge **innovat
 
 Feel free to reach me via the following channels;
 
-<a href="https://www.linkedin.com/in/jackson-muturi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn#&logoColor=fff"></a>      <a href="https://twitter.com/JACKSON27068507" target="_blank"><img src="https://img.shields.io/badge/Twitter-white?logo=Twitter#&logoColor=fff"></a>      <a href="wa.me/+254797955092" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?logo=Whatsapp&logoColor=white"></a>  <a href="mailto:jacksonmuturi2000@gmail.com?subject:subject:text" target="_blank"><img src="https://img.shields.io/badge/-Gmail-white?logo=Gmail&logoColor=red"></a>
+<a href="https://www.linkedin.com/in/jackson-muturi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn#&logoColor=fff"></a>      <a href="https://twitter.com/JACKSON27068507" target="_blank"><img src="https://img.shields.io/badge/Twitter-white?logo=Twitter#&logoColor=fff"></a>      <a href="https://wa.me/+254797955092" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?logo=Whatsapp&logoColor=white"></a>  <a href="mailto:jacksonmuturi2000@gmail.com?subject:subject:text" target="_blank"><img src="https://img.shields.io/badge/-Gmail-white?logo=Gmail&logoColor=red"></a>
 
 
 **DOWNLOAD MY RESUME**
